@@ -1,7 +1,14 @@
 # OOP3 readme
-Welcome to the OPP3 project wiki of Tomer, Michael and Avi! We are students at Ariel University. Over the last few weeks we have created a project that deals with Graph algorithms. In the project, we created a game that has several fruits that are eaten by robots(In the shortest route). There are two options of computer game - manual or automatic.
+Over the last few weeks we have created a project that deals with Graph algorithms. In the project, we created a game that has several fruits that are eaten by robots(In the shortest route). There are two options of computer game - manual or automatic. The track that exists in the game, based on real codindates from the city of Ariel.
+
+# **Example:**
 
 
+<a href="https://ibb.co/7YC8XFw"><img src="https://i.ibb.co/tmKk457/ppppppp.png" alt="ppppppp" border="0"></a>
+
+To move the robot, the user clicks on the robot. Then, clicks on the point where the robot will move. The point must be a robot neighbor.
+
+<a href="http://www.siz.co.il/"><img src="http://up419.siz.co.il/up3/tohahq0mtyz0.png" border="0" alt="manual3" /></a>
 
 # Main classes:
 1. DGraph (datastructure)
@@ -78,9 +85,6 @@ Function Name: TSP We can't really complete the TSP without checking all the pos
 
 <a href="http://www.siz.co.il/"><img src="http://up419.siz.co.il/up2/zbtugoukzdoo.png" border="0" alt="results" /></a>
 
-# **Example:**
 
-
-<a href="https://ibb.co/7YC8XFw"><img src="https://i.ibb.co/tmKk457/ppppppp.png" alt="ppppppp" border="0"></a>
 
 
